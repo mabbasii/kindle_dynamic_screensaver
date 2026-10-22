@@ -32,8 +32,8 @@ local _ = require("gettext")
 local Screen = Device.screen
 
 -- ---------------------------------------------------------------- settings
-local IMAGE_INTERVAL_MIN = 1      -- change image when minute % this == 0
-local FULL_REFRESH_EVERY = 5      -- flash the screen every N image changes to clear ghosting
+local IMAGE_INTERVAL_MIN = 10     -- change image when minute % this == 0
+local FULL_REFRESH_EVERY = 1      -- flash the screen every N image changes to clear ghosting
 local SHUFFLE = true              -- random order instead of alphabetical
 local BOX_TOP = 40                -- gap between screen top and the clock box
 local MAX_MEETINGS = 4

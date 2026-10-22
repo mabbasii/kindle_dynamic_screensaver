@@ -1,9 +1,9 @@
 # Photo clock for Kindle (KOReader plugin)
 
 Full-screen clock for a jailbroken Kindle Paperwhite 12th gen (7", 1264×1680, 300 ppi).
-A full-screen image changes every minute, with the time and date in a box on top
-of it. Changes don't flash, except a full refresh every 5 images to clear e-ink
-ghosting. Optional "Upcoming meetings" list in the same box.
+A full-screen image changes every 10 minutes (one full flash, which also clears
+e-ink ghosting), with the time and date in a box on top of it; the time updates
+every minute without flashing. Optional "Upcoming meetings" list in the same box.
 
 ## Install
 
