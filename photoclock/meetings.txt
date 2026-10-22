@@ -1,0 +1,5 @@
+# One meeting per line. Lines starting with HH:MM (24h) disappear once
+# that time has passed. Lines starting with # are ignored.
+# Example:
+# 09:30 Standup
+# 14:00 Design review
